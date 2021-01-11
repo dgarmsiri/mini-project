@@ -10,3 +10,6 @@ for (let i = 0; i < 4; i++) {
     `)
     })
 }
+radio.onReceivedString(function on_received_string(receivedString: string) {
+    
+})
